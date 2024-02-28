@@ -8,5 +8,5 @@ content:
     start_path: docs
 ui: 
   bundle:
-    url: https://github.com/smilovanov-5am/smilovanov-5am.github.io/blob/main/artifacts/ui-bundle/ui-bundle.zip
+    url: https://github.com/smilovanov-5am/smilovanov-5am.github.io/raw/main/artifacts/ui-bundle/ui-bundle.zip
     snapshot: true
