@@ -1,6 +1,6 @@
 site:
-  title: Antora Docs
-  start_page: component-b::index.adoc 
+  title: Lokeo Docs
+  start_page: lokeo.docs::index.adoc 
 content:
   sources: 
   - url: https://github.com/smilovanov-5am/Lokeo.Docs.git
